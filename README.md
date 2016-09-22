@@ -13,5 +13,5 @@ For source code and instruction, please refer to the [`master` branch](https://g
 
 
 ## Demos
-- [SubGroup with standard L.Control.Layers and MarkerCluster](http://ghybs.github.io/Leaflet.FeatureGroup.SubGroup/examples/subGroup-markercluster-controlLayers-realworld.388.html)
-- [SubGroup with standard L.Control.Layers to display Nested Groups](http://ghybs.github.io/Leaflet.FeatureGroup.SubGroup/examples/subGroup-controlLayers-nestedGroups.html)
+- [SubGroup with standard L.Control.Layers and MarkerCluster](https://ghybs.github.io/Leaflet.FeatureGroup.SubGroup/examples/subGroup-markercluster-controlLayers-realworld.388.html)
+- [SubGroup with standard L.Control.Layers to display Nested Groups](https://ghybs.github.io/Leaflet.FeatureGroup.SubGroup/examples/subGroup-controlLayers-nestedGroups.html)
