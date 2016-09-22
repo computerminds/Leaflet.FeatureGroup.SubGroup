@@ -1,2 +1,8 @@
 node_modules
 dist
+build
+src
+CHANGELOG.md
+Jakefile.js
+LICENSE
+package.json
